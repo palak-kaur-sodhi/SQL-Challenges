@@ -115,7 +115,6 @@ from cte
 where rnk=1 group by customer_id,order_date, membership_date;
 
 # 8. What is the total items and amount spent for each member before they became a member?
-
 select s.customer_id,
 count(m2.product_name) as items_purchased,
 sum(m2.price) as amount_spent
