@@ -1,4 +1,4 @@
-#Using Dannys Dinner Schema
+# Using Dannys Dinner Schema
 use dannys_dinner;
  
 # Creating tables and inserting data to Sales, Members and Menu
