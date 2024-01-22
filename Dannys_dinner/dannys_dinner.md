@@ -22,7 +22,7 @@ Three tables have been given: Sales, Menu and Members. check <a href="https://gi
 
 ## Results and Output:
 Check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dannys_dinner/dannys_dinner.sql"> Dannys Dinner Solutions </a> to see SQL queries.
-<br><b> Result: </b>
+<br><br><b> Result: </b>
 1. Total amount spent by customers - A:76, B:74, C:36
 2. No. of days customers visited - A:4, B:6, C:2
 3. First item purchased from the menu - A:curry & sushi, B:curry, C:ramen
