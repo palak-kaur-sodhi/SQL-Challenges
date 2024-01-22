@@ -5,7 +5,8 @@ This case study is about a restuarant which includes data about the menu, custom
 
 ## Objective:
 We are expected to answer various questions that may help the owner to run the business successfully by providing him useful insights.
-<br><b> Case study Questions: </b> 1. What is the total amount each customer spent at the restaurant?
+<br><br><b> Case study questions: </b> 
+1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
 3. What was the first item from the menu purchased by each customer?
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
@@ -17,7 +18,7 @@ We are expected to answer various questions that may help the owner to run the b
 
 ## Dataset and ER Diagram:
 Three tables have been given: Sales, Menu and Members. check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dannys_dinner/create_dannys_dinner.sql"> Dannys Dinner Data </a> to explore more about data.
-<br><b> ER Diagram for the Dataset: </b>
+<br><b> ER Diagram for the dataset: </b>
 
 ## Results and Output:
 Check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dannys_dinner/dannys_dinner.sql"> Dannys Dinner Solutions </a> to see SQL queries.
