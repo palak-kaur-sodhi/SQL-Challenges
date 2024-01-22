@@ -22,4 +22,13 @@ Three tables have been given: Sales, Menu and Members. check <a href="https://gi
 
 ## Results and Output:
 Check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dannys_dinner/dannys_dinner.sql"> Dannys Dinner Solutions </a> to see SQL queries.
-
+<b> Result: </b>
+1. Total amount spent by customers - A:76, B:74, C:36
+2. No. of days customers visited - A:4, B:6, C:2
+3. First item purchased from the menu - A:curry & sushi, B:curry, C:ramen
+4. Most purchased item - Ramen: 8 times
+5. Most popular item for each customer - A: ramen: 3 times, B: curry, ramen, sushi: 2 times, C: ramen: 3 times
+6. First item purchased after becoming member - A: curry, B: sushi
+7. Last item purchased before becoming member - A: sushi, curry; B: sushi
+8. Total items purchased and amount spent before becoming member - A: 2: 25; B: 3: 40
+9. Total points each customer have - A: 860, B: 940, C: 360
