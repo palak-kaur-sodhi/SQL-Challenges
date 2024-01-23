@@ -24,8 +24,8 @@ Three tables have been given: Sales, Menu and Members. Check <a href="https://gi
 
 
 ## Results and Output:
-Check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dannys_dinner/dannys_dinner.sql"> Dannys Dinner Solutions </a> to see SQL queries.
-<br><br><b> Result: </b>
+I have solved this case study using MySQL Workbench. Check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dannys_dinner/dannys_dinner.sql"> Dannys Dinner Solutions </a> to see SQL queries.
+<br><br><b> Results: </b>
 1. Total amount spent by customers - A: $76; B: $74; C: $36
 2. No. of days customers visited - A: 4 days; B: 6 days, C: 2 days
 3. First item purchased by customers from the menu - A: curry & sushi; B: curry; C: ramen
