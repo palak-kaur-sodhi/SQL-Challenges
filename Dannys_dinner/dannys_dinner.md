@@ -20,7 +20,7 @@ We are expected to answer various questions that may help the owner to run the b
 ## Dataset and ER Diagram:
 Three tables have been given: Sales, Menu and Members. check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dannys_dinner/create_dannys_dinner.sql"> Dannys Dinner Data </a> to explore more about data.
 <br><b> ER Diagram for the dataset: </b>
-<br><img width="450" height="300" alt="ER_dannys_dinner" src="https://github.com/palak-kaur-sodhi/SQL-Challenges/assets/128562893/f369755f-1a42-49b2-b74b-175372c9f91d">
+<br><img alt="ER_dannys_dinner" src="https://github.com/palak-kaur-sodhi/SQL-Challenges/assets/128562893/f369755f-1a42-49b2-b74b-175372c9f91d">
 
 
 ## Results and Output:
