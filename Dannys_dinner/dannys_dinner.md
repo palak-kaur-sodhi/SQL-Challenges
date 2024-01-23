@@ -18,7 +18,7 @@ We are expected to answer various questions that may help the owner to run the b
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
 ## Dataset and ER Diagram:
-Three tables have been given: Sales, Menu and Members. check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dannys_dinner/create_dannys_dinner.sql"> Dannys Dinner Data </a> to explore more about data.
+Three tables have been given: Sales, Menu and Members. Check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dannys_dinner/create_dannys_dinner.sql"> Dannys Dinner Data </a> to explore more about data.
 <br><br><b> ER Diagram for the dataset: </b>
 <br><img width="500" height ="250" alt="ER_dannys_dinner" src="https://github.com/palak-kaur-sodhi/SQL-Challenges/assets/128562893/f369755f-1a42-49b2-b74b-175372c9f91d">
 
@@ -28,10 +28,10 @@ Check <a href="https://github.com/palak-kaur-sodhi/SQL-Challenges/blob/main/Dann
 <br><br><b> Result: </b>
 1. Total amount spent by customers - A: $76; B: $74; C: $36
 2. No. of days customers visited - A: 4 days; B: 6 days, C: 2 days
-3. First item purchased from the menu - A: curry & sushi; B: curry; C: ramen
+3. First item purchased by customers from the menu - A: curry & sushi; B: curry; C: ramen
 4. Most purchased item - Ramen: 8 times
 5. Most popular item for each customer - A: ramen: 3 times; B: curry, ramen, sushi: 2 times; C: ramen: 3 times
 6. First item purchased after becoming member - A: curry; B: sushi
-7. Last item purchased before becoming member - A: sushi; curry; B: sushi
-8. Total items purchased and amount spent before becoming member - A: 2: $25; B: 3: $40
+7. Last item purchased before becoming member - A: sushi, curry; B: sushi
+8. Total items purchased and amount spent before becoming member - A: 2 items: $25; B: 3 items: $40
 9. Total points each customer have - A: 860 points; B: 940 points; C: 360 points
