@@ -1,5 +1,5 @@
 # Case Study 1: Danny's Dinner
-<img width="550" height="500" alt="Dannys_dinner" src="https://github.com/palak-kaur-sodhi/SQL-Challenges/assets/128562893/1b316671-b29a-4d06-8086-720973a93443">
+<img width="500" height="520" alt="Image" src="https://github.com/palak-kaur-sodhi/SQL-Challenges/assets/128562893/1b316671-b29a-4d06-8086-720973a93443">
 
 ## Introduction:
 This case study is about a restuarant which includes data about the menu, customers visiting to the restaurant and items they ordered.<a href="https://8weeksqlchallenge.com/case-study-1/"> Find more details here </a>
